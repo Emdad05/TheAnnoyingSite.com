@@ -25,15 +25,20 @@ const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden
 
 const ART = [
   `
-┊┊ ☆┊┊┊┊☆┊┊☆ ┊┊┊┊┊
-┈┈┈┈╭━━━━━━╮┊☆ ┊┊
-┈☆ ┈┈┃╳╳╳▕╲▂▂╱▏┊┊
-┈┈☆ ┈┃╳╳╳▕▏▍▕▍▏┊┊
-┈┈╰━┫╳╳╳▕▏╰┻╯▏┊┊
-☆ ┈┈┈┃╳╳╳╳╲▂▂╱┊┊┊
-┊┊☆┊╰┳┳━━┳┳╯┊ ┊ ☆┊
+🗿🗿 Insta pe follow bhi kr dena @emdad_98760
   `,
-  `🗿🗿 Insta pe follow bhi kr dena @emdad_98760 
+  ` ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
+ ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
+ ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
+ ⠀⠀⢤⣀⣀⣀⠀⠀⢸⣷⡄⠀⣁⣀⣤⣴⣿⣿⣿⣆
+ ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀
+ ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
+ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁
+   
   `
 ]
 
@@ -52,32 +57,32 @@ const SEARCHES = [
   'why does my mom hate me',
   'why does my pee smell bad',
   'why does my poop float',
-  'proof that the earth is flat'
+  
 ]
 
 const VIDEOS = [
-  'albundy.mp4',
-  'badger.mp4',
-  'cat.mp4',
-  'hasan.mp4',
-  'heman.mp4',
-  'jozin.mp4',
-  'nyan.mp4',
-  'rickroll.mp4',
-  'space.mp4',
-  'trolol.mp4'
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/albundy.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/badger.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/hasan.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/heman.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/jozin.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/nyan.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/rickroll.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/space.mp4',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/trolol.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-blue-eyes.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-ceiling.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-crosseyes.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-cute.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-hover.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-marshmellows.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-small-face.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-smirk.jpg',
+  'https://emdad05.github.io/TheAnnoyingSite.com/static/patreon.png'
 ]
 
 const PHRASES = [
@@ -1114,4 +1119,4 @@ function setupSearchWindow (win) {
       searchIndex += 1
     }, 500)
   }, 2500)
-}
+  }
