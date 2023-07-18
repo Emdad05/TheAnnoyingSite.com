@@ -61,28 +61,28 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/albundy.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/badger.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/hasan.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/heman.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/jozin.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/nyan.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/rickroll.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/space.mp4',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/trolol.mp4'
+  'albundy.mp4',
+  'badger.mp4',
+  'cat.mp4',
+  'hasan.mp4',
+  'heman.mp4',
+  'jozin.mp4',
+  'nyan.mp4',
+  'rickroll.mp4',
+  'space.mp4',
+  'trolol.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-blue-eyes.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-ceiling.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-crosseyes.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-cute.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-hover.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-marshmellows.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-small-face.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/cat-smirk.jpg',
-  'https://emdad05.github.io/TheAnnoyingSite.com/static/patreon.png'
+  'cat-blue-eyes.jpg',
+  'cat-ceiling.jpg',
+  'cat-crosseyes.jpg',
+  'cat-cute.jpg',
+  'cat-hover.jpg',
+  'cat-marshmellows.jpg',
+  'cat-small-face.jpg',
+  'cat-smirk.jpg',
+  'patreon.png'
 ]
 
 const PHRASES = [
