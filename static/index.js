@@ -25,8 +25,8 @@ const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden
 
 const ART = [
   ` 🗿🗿 Share the link and prank with your friends 🗿🗿
-🗿🗿 Insta pe follow bhi kr dena @emdad_98760
-  
+🗿🗿 Insta pe follow bhi kr dena @emdad_98760 `,
+`  
   ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
  ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
  ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
