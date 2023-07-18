@@ -93,8 +93,8 @@ const PHRASES = [
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-  `my WhatsApp contact is 13133333744 i repeat 13133333744',
-  'follow me on Instagram @emdad_98760 ',
+//  `my WhatsApp contact is 13133333744 i repeat 13133333744',
+  //'follow me on Instagram @emdad_98760 ',
   ' prank your friends by sharing the link '
 ]
 
