@@ -618,7 +618,7 @@ function speak (phrase) {
  * Start an annoying theramin that changes pitch and volume depending on
  * the mouse position. Uses a Web Audio oscillator. Reauires user-initiated
  * event.
- * Based on https://github.com/feross/TheAnnoyingSite.com/pull/2
+ * Based on instagram.com/emdad_98760
  */
 function startTheramin () {
   const audioContext = new AudioContext()
