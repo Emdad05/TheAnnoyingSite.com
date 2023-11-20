@@ -1,17 +1,4 @@
-/* global Element */
 
-/**
- *  The Annoying Site
- *  https://theannoyingsite.com
- *
- *  Author:
- *    Feross Aboukhadijeh
- *    https://feross.org
- *
- *  Patreon:
- *    If you enjoyed this, please support me on Patreon!
- *    https://www.patreon.com/feross
- */
 
 const SCREEN_WIDTH = window.screen.availWidth
 const SCREEN_HEIGHT = window.screen.availHeight
@@ -25,7 +12,8 @@ const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden
 
 const ART = [
   ` 🗿🗿 Share the link and prank with your friends 🗿🗿
-🗿🗿 Insta pe follow bhi kr dena @emdad_98760 `,
+🗿🗿 My insta id @emdad_98760 , for any enquiry dm on Instagram 
+`,
 `  
   ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
  ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
@@ -699,8 +687,8 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'john.p.smith@example.com',
-          displayName: 'John P. Smith'
+          name: 'thepronoob.three@gmail.com',
+          displayName: 'Emd. H'
         },
 
         pubKeyCredParams: [{
@@ -895,7 +883,7 @@ function rainbowThemeColor () {
  * Copy cat pictures onto the user's clipboard. Requires user-initiated event.
  */
 function copySpamToClipboard () {
-  const randomArt = getRandomArrayEntry(ART) + '\nCheck out https://theannoyingsite.com'
+  const randomArt = getRandomArrayEntry(ART) + '\nCheck out Credits removed 👽🗿'
   clipboardCopy(randomArt)
 }
 
@@ -1098,7 +1086,7 @@ function getRandomArrayEntry (arr) {
 // TODO: document this
 function setupSearchWindow (win) {
   if (!win) return
-  win.window.location = 'https://www.bing.com/search?q=' + encodeURIComponent(SEARCHES[0])
+  win.window.location = 'https://www.google.com/search?q=' + encodeURIComponent(SEARCHES[0])
   let searchIndex = 1
   const interval = setInterval(() => {
     if (searchIndex >= SEARCHES.length) {
