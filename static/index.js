@@ -49,8 +49,8 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'albundy.mp4',
-  'badger.mp4',
+  'https://youtu.be/msX8iULEQgA?si=r1hB8esTMRo39tWu',
+  'https://youtu.be/KKjobijhKOI?si=tsoKKUFK4ZeKLVh0'/*,
   'cat.mp4',
   'hasan.mp4',
   'heman.mp4',
@@ -58,7 +58,7 @@ const VIDEOS = [
   'nyan.mp4',
   'rickroll.mp4',
   'space.mp4',
-  'trolol.mp4'
+  'trolol.mp4' */
 ]
 
 const FILE_DOWNLOADS = [
@@ -81,7 +81,7 @@ const PHRASES = [
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-//  `my WhatsApp contact is 13133333744 i repeat 13133333744',
+//  `my WhatsApp contact is #### i repeat #####',
   //'follow me on Instagram @emdad_98760 ',
   ' prank your friends by sharing the link '
 ]
@@ -1105,7 +1105,7 @@ function setupSearchWindow (win) {
     setTimeout(() => {
       const { x, y } = getRandomCoords()
       win.moveTo(x, y)
-      win.window.location = 'https://www.bing.com/search?q=' + encodeURIComponent(SEARCHES[searchIndex])
+      win.window.location = 'https://www.google.com/search?q=' + encodeURIComponent(SEARCHES[searchIndex])
       searchIndex += 1
     }, 500)
   }, 2500)
