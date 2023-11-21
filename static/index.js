@@ -11,9 +11,6 @@ const TICK_LENGTH = 50
 const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden; top: -10px; left: -10px;'
 
 const ART = [
-  ` 🗿🗿 Share the link and prank with your friends 🗿🗿
-🗿🗿 My insta id @emdad_98760 , for any enquiry dm on Instagram 
-`,
 `  
   ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
  ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
@@ -27,7 +24,8 @@ const ART = [
  ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁
    
-  `
+  `,`🗿🗿 Share the link and prank with your friends 🗿🗿
+🗿🗿 My insta id @emdad_98760 , for any enquiry dm on Instagram `
 ]
 
 const SEARCHES = [
@@ -37,7 +35,6 @@ const SEARCHES = [
   'why do i feel so empty',
   'why do i always feel hungry',
   'why do i always have diarrhea',
-  'why does my anus itch',
   'why does my belly button smell',
   'why does my cat attack me',
   'why does my dog eat poop',
@@ -49,8 +46,8 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'https://youtu.be/msX8iULEQgA?si=r1hB8esTMRo39tWu',
-  'https://youtu.be/KKjobijhKOI?si=tsoKKUFK4ZeKLVh0'/*,
+  'VID-20231120-WA0107.mp4',
+  'VID-20231120-WA0119.mp4'/*,
   'cat.mp4',
   'hasan.mp4',
   'heman.mp4',
