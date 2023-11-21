@@ -29,7 +29,7 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'where should i bury the body',
+  'how to commit a murder, where should i bury the body',
   'why does my eye twitch',
   'why is my poop green',
   'why do i feel so empty',
