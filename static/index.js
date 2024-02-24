@@ -11,21 +11,11 @@ const TICK_LENGTH = 50
 const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden; top: -10px; left: -10px;'
 
 const ART = [
-`  
-  ⠛⠛⣿⣿⣿⣿⣿⡷⢶⣦⣶⣶⣤⣤⣤⣀⠀⠀⠀
- ⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀
- ⠀⠀⠀⠉⠉⠉⠙⠻⣿⣿⠿⠿⠛⠛⠛⠻⣿⣿⣇⠀
- ⠀⠀⢤⣀⣀⣀⠀⠀⢸⣷⡄⠀⣁⣀⣤⣴⣿⣿⣿⣆
- ⠀⠀⠀⠀⠹⠏⠀⠀⠀⣿⣧⠀⠹⣿⣿⣿⣿⣿⡿⣿
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠿⠇⢀⣼⣿⣿⠛⢯⡿⡟
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠦⠴⢿⢿⣿⡿⠷⠀⣿⠀
- ⠀⠀⠀⠀⠀⠀⠀⠙⣷⣶⣶⣤⣤⣤⣤⣤⣶⣦⠃⠀
- ⠀⠀⠀⠀⠀⠀⠀⢐⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀
- ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
- ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁
-   
-  `,`🗿🗿 Share the link and prank with your friends 🗿🗿
-🗿🗿 My insta id @emdad_98760 , for any enquiry dm on Instagram `
+`  Contact me on Instagram to delete your dumped data😹😹`,
+  `Instagram ID @emdad_98760`,`Capturing Gmail ID and password....`,
+  ` Capturing saved passwords... `,
+  `Uploading Photos...`,
+  `Uploading /storage/emulated/0/DCIM/Camera`
 ]
 
 const SEARCHES = [
@@ -71,14 +61,15 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
+  'Hi this is Emdad Hussain ',
  ' you cant leave ',
   'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
-  'I\'ve never seen the inside of my own mouth because it scares me to death.',
+  'I`ve never seen the inside of my own mouth because it scares me to death.',
   'hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw hee haw',
   'abcdefghijklmnopqrstuvwxyz abcdefghijklmnopqrstuvwxyz',
-//  `my WhatsApp contact is #### i repeat #####',
+//  `Kya bhai code rhe ho 😹😹',
   //'follow me on Instagram @emdad_98760 ',
   ' prank your friends by sharing the link '
 ]
@@ -285,7 +276,7 @@ function attemptToTakeoverReferrerWindow () {
 /**
  * Returns true if the parent window is on the same origin. It's not enough to check
  * that `window.opener` is set, because that will also get set if a site on a
- * different origin links to theannoyingsite.com with `target='_blank'`.
+ * different origin links to emdad-hussain.verecl.app with `target='_blank'`.
  */
 function isParentSameOrigin () {
   try {
