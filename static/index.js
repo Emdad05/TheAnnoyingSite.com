@@ -11,9 +11,10 @@ const TICK_LENGTH = 50
 const HIDDEN_STYLE = 'position: fixed; width: 1px; height: 1px; overflow: hidden; top: -10px; left: -10px;'
 
 const ART = [
-`  Contact me on Instagram to delete your dumped data😹😹`,
-  `Instagram ID @emdad_98760`,`Capturing Gmail ID and password....`,
-  ` Capturing saved passwords... `,
+  `Contact me on Instagram to delete your dumped data😹😹`,
+  `Instagram ID @emdad_98760`,
+  `Capturing Gmail ID and password....`,
+  `Capturing saved passwords...`,
   `Uploading Photos...`,
   `Uploading /storage/emulated/0/DCIM/Camera`
 ]
