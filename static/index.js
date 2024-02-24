@@ -50,15 +50,11 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
+  '#.mp4',
   'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
   'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'lol.mp4',
+  'cat-small-face.jpg'
 ]
 
 const PHRASES = [
